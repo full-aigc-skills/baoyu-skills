@@ -1,0 +1,4 @@
+interface:
+  display_name: "知识漫画"
+  short_description: "把知识、人物故事或教程转为具有分镜与画风的原创漫画"
+  default_prompt: "使用 $baoyu-comic 把知识、人物故事或教程转为具有分镜与画风的原创漫画；先核对输入、可用能力和交付要求。"

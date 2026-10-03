@@ -1,0 +1,4 @@
+interface:
+  display_name: "文章封面"
+  short_description: "为文章设计封面图片，协调构图、配色、文字与画面情绪"
+  default_prompt: "使用 $baoyu-cover-image 为文章设计封面图片，协调构图、配色、文字与画面情绪；先核对输入、可用能力和交付要求。"

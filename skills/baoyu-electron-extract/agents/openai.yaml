@@ -1,0 +1,4 @@
+interface:
+  display_name: "Electron 资源提取"
+  short_description: "提取 Electron 应用的资源与脚本，检查源码映射或格式化代码"
+  default_prompt: "使用 $baoyu-electron-extract 提取 Electron 应用的资源与脚本，检查源码映射或格式化代码；先核对输入、可用能力和交付要求。"

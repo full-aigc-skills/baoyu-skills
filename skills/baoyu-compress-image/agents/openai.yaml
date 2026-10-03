@@ -1,0 +1,4 @@
+interface:
+  display_name: "图片压缩"
+  short_description: "压缩图片体积并转换 WebP 或 PNG，按输入选择可用工具"
+  default_prompt: "使用 $baoyu-compress-image 压缩图片体积并转换 WebP 或 PNG，按输入选择可用工具；先核对输入、可用能力和交付要求。"

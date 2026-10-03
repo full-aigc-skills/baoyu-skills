@@ -1,0 +1,4 @@
+interface:
+  display_name: "网页转 Markdown"
+  short_description: "提取网页内容并保存为 Markdown，按网站与登录状态选择路径"
+  default_prompt: "使用 $baoyu-url-to-markdown 提取网页内容并保存为 Markdown，按网站与登录状态选择路径；先核对输入、可用能力和交付要求。"

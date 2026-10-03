@@ -1,0 +1,4 @@
+interface:
+  display_name: "文章翻译与本地化"
+  short_description: "翻译文章、网页或文件，选择快速、常规或精细模式并使用术语表"
+  default_prompt: "使用 $baoyu-translate 翻译文章、网页或文件，选择快速、常规或精细模式并使用术语表；先核对输入、可用能力和交付要求。"

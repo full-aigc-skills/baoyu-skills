@@ -1,0 +1,4 @@
+interface:
+  display_name: "小红书图片卡片"
+  short_description: "将内容拆分为社交平台图片卡片，选择视觉风格、布局和配色"
+  default_prompt: "使用 $baoyu-xhs-images 将内容拆分为社交平台图片卡片，选择视觉风格、布局和配色；先核对输入、可用能力和交付要求。"

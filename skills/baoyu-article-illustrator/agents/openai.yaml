@@ -1,0 +1,4 @@
+interface:
+  display_name: "文章配图"
+  short_description: "分析文章结构与配图位置，按类型、风格和配色制作插图"
+  default_prompt: "使用 $baoyu-article-illustrator 分析文章结构与配图位置，按类型、风格和配色制作插图；先核对输入、可用能力和交付要求。"

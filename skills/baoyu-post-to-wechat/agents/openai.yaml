@@ -1,0 +1,4 @@
+interface:
+  display_name: "微信公众号发布"
+  short_description: "将文章或多图内容发布至微信公众号，先确认账号与发布授权"
+  default_prompt: "使用 $baoyu-post-to-wechat 将文章或多图内容发布至微信公众号，先确认账号与发布授权；先核对输入、可用能力和交付要求。"

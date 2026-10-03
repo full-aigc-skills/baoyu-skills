@@ -1,0 +1,4 @@
+interface:
+  display_name: "X 内容转 Markdown"
+  short_description: "将 X 推文与文章保存为 Markdown，先确认接口使用授权"
+  default_prompt: "使用 $baoyu-danger-x-to-markdown 将 X 推文与文章保存为 Markdown，先确认接口使用授权；先核对输入、可用能力和交付要求。"

@@ -1,0 +1,4 @@
+interface:
+  display_name: "微信群聊摘要"
+  short_description: "总结授权范围内的微信群聊，整理重点讨论与历史事实记录"
+  default_prompt: "使用 $baoyu-wechat-summary 总结授权范围内的微信群聊，整理重点讨论与历史事实记录；先核对输入、可用能力和交付要求。"

@@ -1,0 +1,4 @@
+interface:
+  display_name: "YouTube 字幕提取"
+  short_description: "提取 YouTube 字幕或封面，按需求整理语言、章节与说话人"
+  default_prompt: "使用 $baoyu-youtube-transcript 提取 YouTube 字幕或封面，按需求整理语言、章节与说话人；先核对输入、可用能力和交付要求。"

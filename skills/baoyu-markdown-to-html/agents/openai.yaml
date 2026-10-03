@@ -1,0 +1,4 @@
+interface:
+  display_name: "Markdown 转 HTML"
+  short_description: "把 Markdown 转为主题化 HTML，支持微信公众号兼容排版"
+  default_prompt: "使用 $baoyu-markdown-to-html 把 Markdown 转为主题化 HTML，支持微信公众号兼容排版；先核对输入、可用能力和交付要求。"

@@ -1,0 +1,4 @@
+interface:
+  display_name: "微博内容发布"
+  short_description: "发布微博文字、图片、视频或头条文章，先确认内容与账号授权"
+  default_prompt: "使用 $baoyu-post-to-weibo 发布微博文字、图片、视频或头条文章，先确认内容与账号授权；先核对输入、可用能力和交付要求。"

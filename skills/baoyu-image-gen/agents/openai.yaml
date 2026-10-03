@@ -1,0 +1,4 @@
+interface:
+  display_name: "多平台图片生成"
+  short_description: "根据提示词或参考图片调用可用生成后端，支持比例与批量生成"
+  default_prompt: "使用 $baoyu-image-gen 根据提示词或参考图片调用可用生成后端，支持比例与批量生成；先核对输入、可用能力和交付要求。"

@@ -1,0 +1,4 @@
+interface:
+  display_name: "信息图设计"
+  short_description: "将内容组织为信息图，选择匹配的信息布局与视觉表现风格"
+  default_prompt: "使用 $baoyu-infographic 将内容组织为信息图，选择匹配的信息布局与视觉表现风格；先核对输入、可用能力和交付要求。"

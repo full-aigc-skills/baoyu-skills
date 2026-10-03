@@ -1,0 +1,4 @@
+interface:
+  display_name: "Gemini 网页生成"
+  short_description: "通过 Gemini 网页接口生成文本或图片，先核对登录与授权"
+  default_prompt: "使用 $baoyu-danger-gemini-web 通过 Gemini 网页接口生成文本或图片，先核对登录与授权；先核对输入、可用能力和交付要求。"

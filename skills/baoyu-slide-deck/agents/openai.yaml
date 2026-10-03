@@ -1,0 +1,4 @@
+interface:
+  display_name: "演示文稿图片"
+  short_description: "根据内容设计演示大纲与视觉风格，逐页生成幻灯片图片"
+  default_prompt: "使用 $baoyu-slide-deck 根据内容设计演示大纲与视觉风格，逐页生成幻灯片图片；先核对输入、可用能力和交付要求。"

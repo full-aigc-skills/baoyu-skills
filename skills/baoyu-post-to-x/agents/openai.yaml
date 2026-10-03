@@ -1,0 +1,4 @@
+interface:
+  display_name: "X 内容发布"
+  short_description: "通过可用浏览器路径发布 X 动态或长文，先核对内容与授权"
+  default_prompt: "使用 $baoyu-post-to-x 通过可用浏览器路径发布 X 动态或长文，先核对内容与授权；先核对输入、可用能力和交付要求。"

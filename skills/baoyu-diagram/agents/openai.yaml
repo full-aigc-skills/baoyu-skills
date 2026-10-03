@@ -1,0 +1,4 @@
+interface:
+  display_name: "SVG 架构与流程图"
+  short_description: "根据系统、流程或概念生成独立 SVG 架构图与逻辑关系图"
+  default_prompt: "使用 $baoyu-diagram 根据系统、流程或概念生成独立 SVG 架构图与逻辑关系图；先核对输入、可用能力和交付要求。"

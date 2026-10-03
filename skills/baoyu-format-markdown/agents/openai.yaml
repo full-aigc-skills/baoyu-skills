@@ -1,0 +1,4 @@
+interface:
+  display_name: "Markdown 排版"
+  short_description: "整理文本与 Markdown 的标题、摘要、列表和代码块排版"
+  default_prompt: "使用 $baoyu-format-markdown 整理文本与 Markdown 的标题、摘要、列表和代码块排版；先核对输入、可用能力和交付要求。"
